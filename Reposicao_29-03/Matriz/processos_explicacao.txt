@@ -1,0 +1,5 @@
+Olá, professor. Relatos acerca do aprendizado e desenvolvimento durante o exercício. Para realizá-lo, tive de:
+- Revisitar exercícios do semestre passado para relembrar estruturação Java;
+- Relembrar o processo de criação de uma matriz; 
+- Reestudar aplicação de StringBuilder em vez de apenas String;
+- Reestudar 
